@@ -13,3 +13,16 @@
  *= require_tree .
  *= require_self
  */
+
+ .question, .answer {
+  background-color: green;
+  height: 100px;
+  width: 100px;
+}
+
+
+
+.link {
+  background-color: yellow;
+  text-decoration: none;
+}
